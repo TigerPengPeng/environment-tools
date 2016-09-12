@@ -1,0 +1,15 @@
+[user]
+	#email = gandalfhuang@haizhi.com
+	#name = gandalfhuang
+	email = huangpengssdut@126.com
+	name = TigerPengPeng
+[diff]
+	tool = vim
+[merge]
+	tool = vim
+[alias]
+me=log --author=TigerPengPeng
+ch=checkout
+b=branch
+[core]
+	editor = /usr/local/bin/vim
